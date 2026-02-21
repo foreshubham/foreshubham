@@ -1,5 +1,5 @@
-# 💫 About Me:
-✌ I'm currently working on enhancing my skills<br>👍 I want to collaborate with Fullstack enthusiast <br>✔ Currently Exploring Tech<br>🔗 Ask me about fullstack and Hacking<br>
+#  About Me:
+I'm currently working on enhancing my skills<br> I want to collaborate with Fullstack enthusiast <br>✔ Currently Exploring Tech<br>🔗 Ask me about fullstack and Hacking<br>
 
 
 ## 🌐 Socials:
